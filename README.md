@@ -1,4 +1,4 @@
-[![MasterHead](https://news.microsoft.com/wp-content/uploads/prod/2016/12/ai-revised2.gif)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/robot-creating-artificial-intelligence-digital-brain-d-rendering-blurred-background-134983149.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vinayak Mane</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
