@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **Deep Learning and Computer Vision**
-
-- 💬 Ask me about **Python , Machine Learning**
+- 💬 Ask me about **Machine Learning , Computer Vision , NLP**
 
 - 📫 How to reach me **manevv18.mech@coep.ac.in**
 
