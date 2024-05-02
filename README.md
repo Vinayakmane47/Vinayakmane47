@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakmane47&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakmane47" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Generative AI**
 
-- 💬 Ask me about **Machine Learning , Computer Vision , NLP**
+- 💬 Ask me about **Machine Learning , LLMs , GenAI , NLP , RAG , Langchain**
 
 - 📫 How to reach me **manevv18.mech@coep.ac.in**
 
